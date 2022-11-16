@@ -1,3 +1,3 @@
 # Decode
 
-A description of this package.
+A Simple package to decode things
